@@ -8,6 +8,6 @@ public class Main {
 
         WesterosApp.displayNameByInitial(dateiName);
 
-
+        WesterosApp.displaySortedHouseStark(dateiName);
     }
 }
