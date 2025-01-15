@@ -5,6 +5,9 @@ public class Main {
         String dateiName = "src/evenimente.tsv";
 
         WesterosApp.readFile(dateiName);
-        
+
+        WesterosApp.displayNameByInitial(dateiName);
+
+
     }
 }
